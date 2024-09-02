@@ -4,10 +4,8 @@ Este é o trabalho de Atvidades Praticas da Universidade Paulista - UNIP com o t
 ![Screenshot_1](https://github.com/nicolasmachad0/Aps_unip/assets/124478422/6141f054-8b4b-4a52-98ec-335fe3f47539)
 
 
-Os integrantes do Grupo estão:
+Integrantes do grupo:
 
-Gabriel dos Santos Alves
-Nicholas Pereira de Brites Nascimento
-Nicolas Machado Fogaça
+Gabriel dos Santos Alves | Nicholas Pereira de Brites Nascimento | Nicolas Machado Fogaça
 
 Segue link do site: (https://github.com/galvessantos/Trabalho-Acad-mico-JavaScript/blob/main/Index.html)
