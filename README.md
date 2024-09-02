@@ -10,4 +10,4 @@ Gabriel dos Santos Alves
 Nicholas Pereira de Brites Nascimento
 Nicolas Machado Fogaça
 
-Segue link do site: https://nicolasmachad0.github.io/Aps_unip/Index.html
+Segue link do site: (https://github.com/galvessantos/Trabalho-Acad-mico-JavaScript/blob/main/Index.html)
