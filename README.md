@@ -1,5 +1,7 @@
-# Ritmo de Consumo - 1° Projeto | Universidade Paulista
+# 🛒 Ritmo de Consumo 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/galvessantos/projeto-consumo-javascript/blob/main/LICENSE) 
+
+---
 
 # Sobre o projeto
 
@@ -9,21 +11,25 @@ Este site foi criado com o objetivo de conscientizar sobre o ritmo acelerado de 
 
 Quando o usuário clica no botão "Clique Aqui", várias divs são exibidas, trazendo citações impactantes e dados relevantes sobre a problemática do consumo excessivo. A ideia é gerar reflexão e incentivar a adoção de hábitos mais responsáveis no dia a dia.
 
-Nosso objetivo é proporcionar uma experiência simples, mas que faça as pessoas pararem para pensar sobre como suas escolhas de consumo afetam o mundo ao seu redor.
+---
 
-## Layout 
+## 🔳 Layout 
 ![Image](https://github.com/user-attachments/assets/3e1218d0-b853-4faa-bc3d-f102b0d5d8dc)
 ![Image](https://github.com/user-attachments/assets/5b17d41c-7059-44a0-8e74-6e592b3a41a1)
 ![Image](https://github.com/user-attachments/assets/dec7fa49-4d27-4534-8758-7978a03abd76)
 ![Image](https://github.com/user-attachments/assets/034279d3-07b5-4b76-8718-d067cd312d5b)
 
-# Tecnologias utilizadas
+---
+
+# 🧰 Tecnologias utilizadas
 ## Front end
 - HTML
 - CSS
 - JavaScript
-  
-# Como executar o projeto
+
+---
+
+# ⚙ Como executar o projeto
 
 ```bash
 # clonar repositório
@@ -35,7 +41,9 @@ Nosso objetivo é proporcionar uma experiência simples, mas que faça as pessoa
 
 ```
 
-# Autores
+---
+
+# 🤝 Autores
 
 Gabriel Alves
 https://www.linkedin.com/in/galvessantos/
